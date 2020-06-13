@@ -1,10 +1,10 @@
 <div align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" data-canonical-src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="80" />](https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud)
+[<img src="https://github.com/sapthesh/Bhadoo-Cloud/blob/master/static/logo.png" data-canonical-src="https://github.com/sapthesh/Bhadoo-Cloud/blob/master/static/logo.png" height="80" />](https://github.com/sapthesh/Bhadoo-Cloud)
 
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
 
-Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](https://server1.bhadoocloud.ga) and [Demo Site Status](https://site-status.hashapp.ga/?q=server1.bhadoocloud.ga)
+Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](http://#) 
 
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/parveenbhadoo/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/parveenbhadoo/bhadoocloud.svg?style=flat)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
