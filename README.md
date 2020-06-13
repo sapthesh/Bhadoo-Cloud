@@ -156,15 +156,17 @@ sudo docker run --name ct -d -p 80:3000 --restart always -e GOOGLE_CLIENT_ID='**
 
 
 Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
+
 Forked from (https://github.com/ParveenBhadooOfficial/BhadooCloud/)
+
 License [GPLv3](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
 
 Contributions are Welcome.
 
 ## Donate for Public Server Maintenance
 
-[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paypal.png">](#)
-[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paytm.webp" width="147">](#)
+#[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paypal.png">](#)
+#[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paytm.webp" width="147">](#)
 
 
 Document Last Updated on 01:04 pm Friday, 13 June 2020 (IST).
