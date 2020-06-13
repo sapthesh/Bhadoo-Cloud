@@ -153,34 +153,18 @@ sudo docker run --name ct -d -p 80:3000 --restart always -e GOOGLE_CLIENT_ID='**
 * Copy your details and use above.
 * `GOOGLE_REDIRECT_URL` is same as `Authorized redirect URIs`
 
-# Resources
-
-* subdomain.bhadoocloud.ga are available to use with our Google Credentials. Email admin[at]hashhackers[dot]com
-
-* [Video: How to install Bhadoo Cloud on Amazon Web Services (AWS)](https://youtu.be/yhsQU6uXNMA)
-
-* [Video: How to use Bhadoo Cloud to Upload Torrents or Files to Google Drive](https://youtu.be/ynRkZ1OaQSQ)
-
-* [Video: How to remove Docker Images from AWS Server to Fetch Latest Images](https://youtu.be/SGrB0oo8F_4)
-
-* [Proxy Server](https://github.com/ParveenBhadooOfficial/PHP-Web-Proxy)
 
 
 Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
-
+Forked from (https://github.com/ParveenBhadooOfficial/BhadooCloud/)
 License [GPLv3](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
 
 Contributions are Welcome.
 
 ## Donate for Public Server Maintenance
 
-[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paypal.png">](https://www.paypal.me/FacTooGle)
-[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paytm.webp" width="147">](https://bit.ly/BhadooPay)
+[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paypal.png">](#)
+[<img src="https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Cloud/master/files/paytm.webp" width="147">](#)
 
-## Supported By
 
-[![BrowserStack](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/files/browserstack.png)](https://www.browserstack.com/)
-
-Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-)
-
-Document Last Updated on 08:38 am Friday, 25 October 2019 (IST).
+Document Last Updated on 01:04 pm Friday, 13 June 2020 (IST).
