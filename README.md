@@ -6,6 +6,11 @@ Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Serve
 
 Open URLs in Proxy to bypass Restrictions (works like VPN), Check [Demo](http://#) 
 
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sapthesh/Moquee-Cloud?style=for-the-badge">
+<a href="https://github.com/sapthesh/Moquee-Cloud/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sapthesh/Moquee-Cloud"></a>
+<a href="https://github.com/sapthesh/Moquee-Cloud/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/sapthesh/Moquee-Cloud"></a>
+<a href="https://github.com/sapthesh/Moquee-Cloud/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sapthesh/Moquee-Cloud"></a>
+
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/parveenbhadoo/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/parveenbhadoo/bhadoocloud.svg?style=flat)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
 [![Docker Pulls](https://img.shields.io/docker/pulls/parveenbhadoo/bhadoocloud.svg)](https://hub.docker.com/r/parveenbhadoo/bhadoocloud)
